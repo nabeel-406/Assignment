@@ -1,0 +1,6 @@
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Litware Organization\bin\Debug\Litware Organization.dll
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Litware Organization\bin\Debug\Litware Organization.pdb
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Litware Organization\obj\Debug\Litware Organization.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Litware Organization\obj\Debug\Litware Organization.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Litware Organization\obj\Debug\Litware Organization.dll
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Litware Organization\obj\Debug\Litware Organization.pdb

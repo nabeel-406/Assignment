@@ -1,0 +1,10 @@
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Employee Management System\bin\Debug\Litware Organization.dll
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Employee Management System\bin\Debug\Litware Organization.pdb
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Employee Management System\obj\Debug\Employee Management System.csproj.CopyComplete
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\Employee Management System\obj\Debug\Employee Management System.pdb

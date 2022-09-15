@@ -1,0 +1,10 @@
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\ConsoleApp2\bin\Debug\Litware Organization.dll
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\ConsoleApp2\bin\Debug\Litware Organization.pdb
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Win10\Desktop\Onboardng Training\Assignment\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
